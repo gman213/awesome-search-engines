@@ -11,6 +11,7 @@ Aiming to list all the search engines on the World Wide Web
 ## Search Engines with smaller indices
 
 - [Alexandria](https://www.alexandria.org/); A pretty new “non-profit, ad free” engine, with [freely-licensed code](https://github.com/alexandria-org/alexandria).
+- [Moka](https://mokasearch.com/); A search engine with its own Common Crawl–based index, filtered to surface human-written perspectives, primarily from blogs.
 - [greppr](https://greppr.org/); Over 3 million pages indexed. It’s surprisingly good at finding interesting new results for broad short-tail queries, if you’re willing to scroll far enough down the page. It appears to be good at finding recent pages.
 - [https://indieweb-search.jamesg.blog/](https://indieweb-search.jamesg.blog/); Search IndieWeb websites, perhaps down?
 - [Right Dao](https://rightdao.com/); For the past few months, its index seems to have focused more on large, established sites rather than smaller, independent ones.
